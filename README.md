@@ -11,6 +11,7 @@ Create two child class.
 Create a constructor in the base class and print a message.
 ## Step 4:
 Create constructor in child classes to print the message.
+
 ## Program:
 ```
 Developed By: Mirudhula D
@@ -78,7 +79,7 @@ namespace exp8
 
 ![image](https://github.com/MIRUDHULA-DHANARAJ/Inheritance/assets/94828147/fd92f9d8-828f-4d7f-a94d-ddc42647c38b)
 
-## Result
+## Result:
 Thus, C# program to print some messages using hierarchical inheritance is implemented successfully.
 
 
